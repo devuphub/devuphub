@@ -1,107 +1,90 @@
-## Hi there 👋
-
-<!--👋 Hey! I'm **Dev Upadhyay**
-2nd-Year BTech Student | Computer Science Engineering • Passionate about AI & Machine Learning
+# 👋 Hey! I'm Dev Upadhyay  
+**2nd-Year BTech Student | Computer Science Engineering • Passionate about AI & Machine Learning**
 
 ---
 
 ## 🎓 About Me
-
-🏫 Studying **BTech in Computer Science Engineering at ABES Engineering College**, Ghaziabad, India
-🎯 Interested in **Artificial Intelligence, Machine Learning & Software Development**
-💼 Currently learning **Python and programming fundamentals**
-🚀 Passionate about understanding how intelligent systems work
-🌍 Based in **Uttar Pradesh, India**
+- 🏫 Studying **BTech in Computer Science Engineering at ABES Engineering College**, Ghaziabad, India  
+- 🎯 Interested in **Artificial Intelligence, Machine Learning & Software Development**  
+- 💼 Currently learning **Python and programming fundamentals**  
+- 🚀 Passionate about understanding how intelligent systems work  
+- 🌍 Based in **Uttar Pradesh, India**
 
 ---
 
 ## 🌱 Currently Learning
-
-Python • Object-Oriented Programming • Data Structures • AI/ML Basics
+Python • Object-Oriented Programming • Data Structures • AI/ML Basics  
 
 ---
 
 ## 💻 Tech Skills
 
 ### Languages
-
-Python • C • Java (Basics)
+- Python  
+- C  
+- Java (Basics)
 
 ### Frontend Development
-
-HTML • CSS (Basics)
+- HTML  
+- CSS (Basics)
 
 ### Backend & Databases
-
-Currently exploring backend development
+- Currently exploring backend development
 
 ### Developer Tools
-
-Git • GitHub • VS Code • Linux (Basics)
+- Git  
+- GitHub  
+- VS Code  
+- Linux (Basics)
 
 ---
 
 ## 📫 Get In Touch
 
-| Platform | Link                                                          |
-| -------- | ------------------------------------------------------------- |
-| Email    | [devupadhyay1011@gmail.com](mailto:devupadhyay1011@gmail.com) |
-| GitHub   | https://github.com/YOUR_USERNAME                              |
-| LinkedIn | https://www.linkedin.com/in/dev-upadhyay-87b64530b/           |
+| Platform | Link |
+|--------|------|
+| Email | devupadhyay1011@gmail.com |
+| GitHub | https://github.com/YOUR_USERNAME |
+| LinkedIn | https://www.linkedin.com/in/dev-upadhyay-87b64530b/ |
 
 ---
 
 ## 🌐 Connect With Me
-
-LinkedIn • GitHub • Instagram
+- LinkedIn  
+- GitHub  
+- Instagram  
 
 ---
 
 ## 🎯 Featured Projects
 
-| Project                  | Description                                          | Tech Stack |
-| ------------------------ | ---------------------------------------------------- | ---------- |
-| Python Practice Programs | Collection of beginner Python programs and exercises | Python     |
-| DSA Practice             | Basic data structure problems and implementations    | C / Python |
-| Mini Python Projects     | Small projects while learning programming            | Python     |
+| Project | Description | Tech Stack |
+|--------|-------------|-----------|
+| Python Practice Programs | Collection of beginner Python programs and exercises | Python |
+| DSA Practice | Basic data structure problems and implementations | C / Python |
+| Mini Python Projects | Small projects while learning programming | Python |
 
 ➡️ View all projects on my GitHub profile
 
 ---
 
 ## 📊 GitHub Analytics
-
-GitHub Stats
-Top Languages
-GitHub Streak
+- GitHub Stats  
+- Top Languages  
+- GitHub Streak  
 
 ---
 
 ## ⚡ Fun Facts About Me
-
-🎮 I enjoy learning new technologies and coding
-🎓 Currently building strong foundations in programming for AI & ML
-🎵 I like listening to music while coding
-☕ Coffee makes coding sessions better
+- 🎮 I enjoy learning new technologies and coding  
+- 🎓 Currently building strong foundations in programming for AI & ML  
+- 🎵 I like listening to music while coding  
+- ☕ Coffee makes coding sessions better  
 
 ---
 
 📈 **Always learning, always growing! 🚀**
 
-⭐ If you like my projects, give them a star! ⭐
+⭐ If you like my projects, give them a star! ⭐  
 
-Profile Last Updated: 2026
-
-**devuphub/devuphub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Profile Last Updated: 2026**
