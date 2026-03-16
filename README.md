@@ -1,4 +1,4 @@
-# 👋 Hey! I'm Dev Upadhyay  
+# 👋 Hey! I'm Dev Upadhyay
 **2nd-Year BTech Student | Computer Science Engineering • Passionate about AI & Machine Learning**
 
 ---
@@ -44,15 +44,14 @@ Python • Object-Oriented Programming • Data Structures • AI/ML Basics
 | Platform | Link |
 |--------|------|
 | Email | devupadhyay1011@gmail.com |
-| GitHub | https://github.com/YOUR_USERNAME |
+| GitHub | https://github.com/devuphub |
 | LinkedIn | https://www.linkedin.com/in/dev-upadhyay-87b64530b/ |
 
 ---
 
 ## 🌐 Connect With Me
-- LinkedIn  
-- GitHub  
-- Instagram  
+- GitHub: https://github.com/devuphub  
+- LinkedIn: https://www.linkedin.com/in/dev-upadhyay-87b64530b/  
 
 ---
 
@@ -64,14 +63,14 @@ Python • Object-Oriented Programming • Data Structures • AI/ML Basics
 | DSA Practice | Basic data structure problems and implementations | C / Python |
 | Mini Python Projects | Small projects while learning programming | Python |
 
-➡️ View all projects on my GitHub profile
+➡️ View all projects → https://github.com/devuphub
 
 ---
 
 ## 📊 GitHub Analytics
-- GitHub Stats  
-- Top Languages  
-- GitHub Streak  
+GitHub Stats  
+Top Languages  
+GitHub Streak  
 
 ---
 
