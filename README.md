@@ -22,11 +22,11 @@ Python • Object-Oriented Programming • Data Structures • AI/ML Basics
 ### Languages
 - Python  
 - C  
-- Java (Basics)
+- Java
 
 ### Frontend Development
 - HTML  
-- CSS (Basics)
+- CSS
 
 ### Backend & Databases
 - Currently exploring backend development
