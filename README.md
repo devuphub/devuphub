@@ -1,4 +1,4 @@
-# 👋 Hey! I'm Dev Upadhyay
+# 👋 Hey! I'm Dev Prakash Upadhyay
 **2nd-Year BTech Student | Computer Science Engineering • Passionate about AI & Machine Learning**
 
 ---
